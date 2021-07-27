@@ -25,7 +25,10 @@ On larger websites it's a good idea to organize your code by placing the pages f
 
 1. Structure:The diagram on the right shows the directory structure for a fictional entertainment listings website called ExampleArts.
 1. Relationships:The relationship between files and folders on a website is described using the same terminology as a family tree.
-1. Homepages: is called index.html
+1. Homepages: is called index.html .
+ 
+ ![links in html](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2020/06/Links-in-HTML.jpg)
+
 
   *Chapter 15: **Layout** 
 
